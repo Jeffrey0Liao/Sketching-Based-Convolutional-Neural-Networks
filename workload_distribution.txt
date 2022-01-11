@@ -1,0 +1,25 @@
+Collaboration and work distribution within group 3.
+
+Chen Liao:
+* Team Leader, organizing and motivating the team work.
+* Basic knowledge illumination
+* Part of the theoretical research and literiture review
+* Most of the coding
+* Part of the experiment process
+* Prelimiary and model in report
+
+Mingjie Chen:
+* Experiment design
+* Report organization and integration
+* Report LaTex formatting
+* Experiment and evaluation in report
+
+Yeqing Wang:
+* part of the coding
+* statistic analysis of experiment result
+* paperwork
+
+ Terry Junxiang Shi:
+* Part of the background research
+* Sketching illumination
+* Background and introduction in report
